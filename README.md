@@ -3,7 +3,7 @@ This is the final assignment for Python for Data Science, AI &amp; Development. 
 
 ### This notebook analyses Tesla and GameStop as follows:
 - extracting the stock data with yfinance
-- exracting revenue data with web-scraping
+- extracting revenue data with web-scraping
 - using the graph function, plot the data for both companies 
 
 
